@@ -65,8 +65,4 @@ int main()
         // Output
         pf("Jumlah hari pada bulan %s tahun %d adalah %d\n\n", bulaan[bulan - 1], tahun, hari);
     }
-    // Penambahan titik koma disini
-    // menambhakan komentar yang kedua
-    // menambahkkan komentar yang ketiga
-    // menambahkan komentar yang keempat
 }
